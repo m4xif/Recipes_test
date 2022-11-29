@@ -1,3 +1,43 @@
-ue2 {
+.ue2 {
     color: red;
+}
+
+.indexue {
+    background-color: rgb(214, 153, 130);
+    text-align: center;
+
+}
+
+.nav{
+    background-color: rgb(209, 159, 93);
+    padding: 10px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.steps {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  img:hover {
+    box-shadow: 0 0 2px 1px rgba(43, 49, 51, 0.5);
+  }
+
+.ingr {
+    text-align: center;
+    
 }
